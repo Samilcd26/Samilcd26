@@ -1,7 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+
 
 ### <div align="center">I'm Şamil, full-stack developer 👨‍💻 </div>  
   
@@ -9,7 +6,7 @@
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/Samilcd26)  
 
 - 🌱 I’m currently learning Spring and algorithm.  
-- ✒️ My [linkedin](https://github.com/Samilcd26](https://www.linkedin.com/in/samilcdemir/) profile.
+- ✒️ My [linkedin](https://www.linkedin.com/in/samilcdemir/) profile.
   
 
 <br/>  
