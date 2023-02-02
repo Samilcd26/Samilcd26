@@ -7,9 +7,9 @@
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/Samilcd26)  
-  
 
 - 🌱 I’m currently learning Spring and algorithm.  
+- ✒️ My [linkedin]([https://github.com/Samilcd26](https://www.linkedin.com/in/samilcdemir/)) profile.
   
 
 <br/>  
