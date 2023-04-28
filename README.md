@@ -124,7 +124,10 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Samilcd26&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Samilcd26/Samilcd26/output/snake.svg" alt="Snake animation" />
+
 
 <br/>  
 
