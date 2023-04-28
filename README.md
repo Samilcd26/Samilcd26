@@ -65,8 +65,9 @@
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
-</td><td valign="top" width="25%"></tr>
-### Mobil  
+</td><td valign="top" width="25%">
+  
+  ### Mobil  
 <div align="center">  
 
 <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
@@ -74,6 +75,9 @@
 </div>
 
 </td>
+  
+  
+  </tr>
 </table>  
 
 <br/>  
