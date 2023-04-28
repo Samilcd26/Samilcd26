@@ -126,7 +126,7 @@
 ## Github Stats  
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Samilcd26/Samilcd26/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Samilcd26/Samilcd26/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 
 <br/>  
