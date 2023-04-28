@@ -3,19 +3,30 @@
 ### <div align="center">I'm Şamil, full-stack developer 👨‍💻 </div>  
   
 
+
+<br/>  
+
+
+
+<table>
+  <tr>
+  <td valign="top" width="50%">
+    
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/Samilcd26)  
 
 - 🌱 I’m currently learning Spring and algorithm.  
 - ✒️ My [linkedin](https://www.linkedin.com/in/samilcdemir/) profile.
 - ✒️ My [HackerRank](https://www.hackerrank.com/samilcd_26) profile. 
 - ✒️ My [LeetCode](https://www.leetcode.com/Samilcd26/) profile. 
-
-<br/>  
-
-
-  <img src="https://raw.githubusercontent.com/Samilcd26/Samilcd26/output/snake.svg" alt="Snake animation" />
+    </td>
+  <td valign="top" width="50%">
+    <div align="center">
+  <img src="https://streak-stats.demolab.com?user=Samilcd26&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+    </td>
   
-
+  </tr>
+</table>
 ## My Skill Set  
 <table><tr><td valign="top" width="25%">
 
