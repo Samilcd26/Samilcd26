@@ -12,6 +12,9 @@
 
 <br/>  
 
+  <div align="center">
+  <img src="https://streak-stats.demolab.com?user=Samilcd26&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" />
+  </div>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="25%">
