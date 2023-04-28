@@ -67,16 +67,6 @@
 </div>
 </td></tr>
 
-
-### Mobil  
-<div align="center">  
-
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
- <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="25%">
-
 </table>  
 
 <br/>  
