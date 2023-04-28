@@ -125,8 +125,10 @@
 
 ## Github Stats  
 <br clear="both">
+<div align="center">  
+  <img src="https://github.com/Samilcd26/Samilcd26/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
-<img src="https://github.com/Samilcd26/Samilcd26/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 
 <br/>  
@@ -150,4 +152,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
