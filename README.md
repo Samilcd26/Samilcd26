@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning Spring and algorithm.  
 - ✒️ My [linkedin](https://www.linkedin.com/in/samilcdemir/) profile.
 - ✒️ My [HackerRank](https://www.hackerrank.com/samilcd_26) profile. 
+- ✒️ My [LeetCode](https://www.leetcode.com/Samilcd26/) profile. 
 
 <br/>  
 
