@@ -12,9 +12,9 @@
 
 <br/>  
 
-  <div align="center">
+
   <img src="https://raw.githubusercontent.com/Samilcd26/Samilcd26/output/snake.svg" alt="Snake animation" />
-  </div>
+  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="25%">
