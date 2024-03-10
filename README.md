@@ -130,7 +130,8 @@
 ## Github Stats  
 <br clear="both">
 <div align="center">  
-  <img src="https://github.com/Samilcd26/Samilcd26/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
 </div>
 
 
